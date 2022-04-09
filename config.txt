@@ -1,0 +1,4 @@
+[engine]
+width = 10
+height = 10
+sleepTime = 0.1
